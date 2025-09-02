@@ -1,0 +1,7 @@
+Hello this macro is only a sample scenario and not a real data.
+
+Clean Data.xlsm - macro file
+University Hospital Roster.xlsx - data set
+ProviderDatabase.accdb - database
+Clients email.pdf - client email
+Workflows.pdf - workflow
